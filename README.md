@@ -32,6 +32,24 @@ A shapefile providing the geographical boundaries of London’s LSOAs.
 
 Enables spatial visualization of deprivation and education levels using GIS tools.
 
+## Project Structure
+
+📂 GEOG5990_Assignment
+
+│-- 📂 data              
+
+│   ├── 📂 shapefile  
+
+│   ├── English_imd_2019_london.csv
+
+│   ├── qulifications_London.csv
+
+│-- 201781475.ipynb
+
+│-- README.md           
+
+
+
 ## Aims & Objectives
 
 Visualize the spatial distribution of IMD deciles across London.
